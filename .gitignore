@@ -1,0 +1,5 @@
+# build output
+/example/example
+*.test
+*.out
+bin/
